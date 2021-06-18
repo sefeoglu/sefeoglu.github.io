@@ -1,4 +1,1 @@
-# The Cayman theme
-
-
-![Theme](https://github.com/pages-themes/cayman)
+### The Cayman is theme of (https://github.com/pages-themes/cayman)
