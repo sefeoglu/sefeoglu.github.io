@@ -12,12 +12,8 @@ My interests are robotics, model based rl, adversarial training, robustness, cog
 🌱 I’m currently learning  meta-learning and graph representation learning.
 
 
-# Projects over Master at Data Science, at University of Potsdam.
+# Projects 
 
-## Master Thesis
+## Master Thesis at University of Potsdam.
 * Title: A Deep Learning Approach For Domain Specific Automated Ontology Construction
 * The thesis aims to construct a knowledge graph from painting catalogue using automated ontology construction approach, leveraging ontology matching.
-### Modules: 
-* Ontology Matching
-* Concept Extraction (Named Entity Extraction)
-* Relation Extraction
